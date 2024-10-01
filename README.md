@@ -7,6 +7,7 @@
 </p>
 
 ## 2D and 3D cross-platform game engine
+> This forked version of Godot is another backup/archive of the engine in case the activists doing damage happen to block me or anyone else from their github.
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
